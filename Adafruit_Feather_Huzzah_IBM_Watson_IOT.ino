@@ -8,6 +8,10 @@
  * 
  * - 1 x Adafruit Feather Huzzah
  * - 1 x Micro USB cable
+
+   External Library list:
+   - ESP8266WiFi.h  - https://github.com/ekstrand/ESP8266wifi
+   - PubSubClient.h - https://github.com/knolleary/pubsubclient
  *******************************************************************************
  * @author: Flavio H. C. Mauro
  * @date:   06-Dec-2017
