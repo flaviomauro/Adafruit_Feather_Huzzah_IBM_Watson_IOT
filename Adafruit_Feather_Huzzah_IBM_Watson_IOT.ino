@@ -14,7 +14,7 @@
    - PubSubClient.h - https://github.com/knolleary/pubsubclient
  *******************************************************************************
  * @author: Flavio H. C. Mauro
- * @date:   06-Dec-2017
+ * @date:   06-Jan-2017
  * LinkedIn: https://br.linkedin.com/in/flaviomauro
  *******************************************************************************
  */
