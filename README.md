@@ -1,9 +1,9 @@
-# Adafruit_Feather_Huzzah_IBM_Watson_IOT
+# adafruit-feather-huzzah-ibm-watson-iot
 <br /> 
 Description:<br /> 
 *******************************************************************************<br /> 
 Sample code to connect to WiFi and send data to IBM Watson IoT Platform.<br /> 
-GitHub: https://github.com/flaviomauro/Adafruit_Feather_Huzzah_IBM_Watson_IOT<br /> 
+GitHub: https://github.com/flaviomauro/adafruit-feather-huzzah-ibm-watson-iot<br /> 
 *******************************************************************************<br /> 
 Item list:<br />
 <ul>
